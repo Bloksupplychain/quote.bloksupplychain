@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div>hello</div>;
+  return (
+    <>
+      <h1>Bloksupplychain</h1>
+    </>
+  );
 }
